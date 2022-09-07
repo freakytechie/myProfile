@@ -1,35 +1,17 @@
 # 👋 Hi
-- My name is Precious Okwukwe Amaechi. A Computer Software Engineer 
-  - I am A graduate and a Computer Data Analyst.
+- Welcome
 #
 # 👀 I’m interested in ...
-  - Software Engineering
-- Data Management
-  - Web Development
-- C, C++ C# Programming
-  - Html 5
-- Linux Security
-  - Node and REACT Js.
-- All Software Development Application
+  - All Things Coding
 #
 # 🌱 I’m currently learning ...
-- Software Engineering
-  - C, C++
-- Java, HTML, REACT JS, PYTHON 
-  - I kinda Like my school wow. @ALX, @Holberton
+- Coding
 #
 # 💞️ I’m looking to collaborate on ...
-- C, C++
-  - Front End Web-development
-- Data Structruing and analysis
-  - Software Development
-- All ICT software apporved jobs.
+- All Things Coding
 #
 # 📫 How to reach me ...
 - My Github Account Username is : @engrpoama
-- My Linkdin Address is : https://www.linkedin.com/in/engrpoama/
-- Facebook: Kinda dont like much of the platform but still creating a profile for it.
-- Twitter: @engrpoama
 - Email: engrpoama@techie.com
 
 <!---
